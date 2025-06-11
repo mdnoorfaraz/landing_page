@@ -29,7 +29,7 @@ a {
 
 body {
   font-family: "Noto Sans JP", sans-serif;
-  background-color: #dbdce0;
+  background-color: #c1bed3; /*dbdce0 - old white color*/
 }
 
 body::after {
